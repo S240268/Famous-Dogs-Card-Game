@@ -1,0 +1,30 @@
+Annie the Afgan Hound,1,4,7,9
+Bertie the Boxer,6,7,7,10
+Betty the Borzoi,5,4,10,9
+Charlie the Chihuahua,7,9,7,10
+Chaz the Cocker Spaniel,9,8,2,1
+Donald the Dalmatian,10,2,6,3
+Dottie the Doberman,8,9,6,3
+Fern the Fox Terrier,3,1,8,6
+Frank the French Bulldog,4,7,8,6
+George the Great Dane,3,3,7,4
+Gertie the Greyhound,10,1,2,1
+Harry the Harrier,3,6,1,1
+Ian the Irish Wolfhound,4,1,1,1
+Juno the Jack Russell,9,7,8,2
+Keith the Kerry Blue,9,1,10,6
+Larry the Labrador,8,2,6,2
+Marge the Maltese,4,6,9,2
+Max the Mutt,3,10,10,1
+Nutty the Newfoundland,7,7,10,8
+Olive the Old English Sheepdog,6,9,5,6
+Peter the Pug,10,3,10,1
+Poppy the Pekingese,10,3,5,9
+Rosie the Rottweiler,10,7,9,7
+Ruby the Retriever,1,8,4,5
+Sam the Springer Spaniel,3,6,7,7
+Sukie the Saluki,7,3,8,9
+Vernon the Vizsla,7,10,5,2
+Whilma the West Highland Terrier,1,5,7,7
+William the Whippet,7,9,7,9
+Yolande the Yorkshire Terrier,4,5,5,4
