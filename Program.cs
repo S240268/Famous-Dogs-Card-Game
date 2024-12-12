@@ -159,7 +159,7 @@ namespace Famous_Dogs
 
         static void Main(string[] args)
         {
-            string filename = @"dogsData.txt";
+            string filename = "dogsData.txt";
             string[,] topTrumps = new string[size_y, size_x];
             LoadData(filename, topTrumps);
 
